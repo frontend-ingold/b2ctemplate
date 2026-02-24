@@ -274,7 +274,7 @@ EXCEEDS_MB_IMAGE_LIMIT,exceeds the 5 MB limit.
 IMAGE_V1,Image
 MESSAGE,Message
 YOUR_SHIPMENT,Your shipment
-TRACKING_FAILED_MSG,Currently, we are not able to provide the tracking details. We can’t locate shipments if we haven’t received information from the shipper yet, or if the package information is older than 120 days
+TRACKING_FAILED_MSG,Currently we are not able to provide the tracking details. We can’t locate shipments if we haven’t received information from the shipper yet, or if the package information is older than 120 days
 ESTIMATED_DELIVERY_SOON,Estimated delivery date will be available as soon as we get the package
 MONETICO_GATEWAY,Credit Card Payment
 STRIPE_GATEWAY,Pay on Card(Stripe)
@@ -335,7 +335,7 @@ CONTACT_US,Contact Us
 BACK,Back!
 SIGNUP,Sign Up
 CREATE_AN_ACCOUNT,Create An Account
-INCORRECT_CAPTCHA_TRY_AGAIN, Incorrect CAPTCHA, try again
+INCORRECT_CAPTCHA_TRY_AGAIN, "Incorrect CAPTCHA, try again
 IF_CUSTOMER_ACCOUNT_LINKED_TO,If a customer account is linked to
 YOU_WILL_RECEIVE_EMAIL_RESET_PASSWORD,you will receive an email with a link to reset your password.
 FORGOT_YOUR_PASSWORD,Forgot your password?
@@ -582,5 +582,4 @@ TAX,Tax
 ORDER_INFORMATION,Order Information
 VIEW_DETAILS,View Details
 REORDER,Reorder
-
 REORDER_PLACED,Reorder placed!
