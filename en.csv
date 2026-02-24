@@ -274,7 +274,7 @@ EXCEEDS_MB_IMAGE_LIMIT,exceeds the 5 MB limit.
 IMAGE_V1,Image
 MESSAGE,Message
 YOUR_SHIPMENT,Your shipment
-TRACKING_FAILED_MSG,Currently we are not able to provide the tracking details. We can’t locate shipments if we haven’t received information from the shipper yet, or if the package information is older than 120 days
+TRACKING_FAILED_MSG,Currently we are not able to provide the tracking details. We can’t locate shipments if we haven’t received information from the shipper yet or if the package information is older than 120 days
 ESTIMATED_DELIVERY_SOON,Estimated delivery date will be available as soon as we get the package
 MONETICO_GATEWAY,Credit Card Payment
 STRIPE_GATEWAY,Pay on Card(Stripe)
