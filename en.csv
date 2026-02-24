@@ -1,0 +1,585 @@
+SIGNIN,Sign In
+DASHBOARD,Dashboard
+SHOPPING,Shopping
+PARTNER_PROGRAM,Partner program
+TRAINING_AND_ONBOARDING_RESOURCES,Training and onboarding resources
+INVOICES,Invoices
+SALES_ORDERS,Sales Orders
+PRODUCT_INFORMATION,Product Information
+MY_COMPANY,My Company
+CREDIT_NOTES,Credit Notes
+ABOUT_US,About Us
+BALANCE_SHEET,Balance Sheet
+MY_OPEN_ORDERS,MY OPEN ORDERS
+COUNT,COUNT
+AMOUNT,AMOUNT
+MY_OPEN_INVOICES,MY OPEN INVOICES
+TOP_MOST_PURCHASED_PRODUCTS,TOP 10 MOST PURCHASED PRODUCTS
+ORDERS,Orders
+ORDER_ID_SAP,Order ID (SAP)
+ORDER_ID_ONLINE,Order ID (Online)
+STATUS,Status
+DATE,Date
+ORDER_TOTAL,Order Total
+PLEASE_ENTER_TO_DATE,Please Enter To Date
+PLEASE_ENTER_FROM_DATE,Please Enter From Date
+OPENED,Opened
+CLOSED,Closed
+CANCELLED,Cancelled
+PARTIAL_PENDING,Partial Pending
+PENDING,Pending
+PAID,Paid
+FROM_DATE,From Date
+TO_DATE,To Date
+SELECT_STATUS,Select Status
+NUMBER,Number
+ENTER_NUMBER,Enter Number
+APPLY_FILTER,APPLY FILTER
+CLEAR_FILTER,CLEAR FILTER
+ORDER_DETAILS,Order details
+ORDER_NO,Order No
+ORDER_ITEMS,Order Items
+SKU_V1,SKU
+PRICE,Price
+QTY_V1,Qty
+TAX_V1,Tax
+SUBTOTAL,Subtotal
+TOTAL_BEFORE_TAX,Total Before Tax
+TOTAL_TAX_AMOUNT,Total Tax Amount
+GRAND_TOTAL,Grand Total
+ORDER_INFORMATION,Order Information
+DELIVERY_ADDRESS,Delivery Address
+BILLING_ADDRESS,Billing Address
+SHIPPING_METHOD,Shipping Method
+PAYMENT_METHOD,Payment Method
+DOWNLOAD_COMPLETE,Download complete
+DOWNLOAD_FAILED,Download failed
+INVOICE_DETAILS,Invoice details
+BALANCE_DUE,Balance due
+PAY_V1,Pay
+INVOICE_ID,Invoice Id
+CREDIT_NOTE_LIST,Credit Note List
+CREDIT_NOTE_NO,Credit Note No
+CREDIT_NOTE_ONLINE,Credit Note(Online)
+SHOW_LESS,Show less
+SHOW_MORE,Show more
+CREDIT_NOTE_DETAILS,Credit Note Details
+HOME,Home
+SELECT_ALL,Select All
+PAYMENT_SUCCESSFUL,Payment successful
+CHOOSE_PAYMENT_METHOD,Choose Payment Method
+PAYBLE_AMOUNT,Payble Amount
+SHIPMENT,Shipment
+TRAINING_RESOURCES,Training Resources
+WATCH_VIDEO,Watch Video
+WATCH,Watch
+DOWNLOAD,Download
+DOCUMENTATION,Documentation
+VIEW_V1,View
+NEW_COLLECTION,New Collection
+PRODUCT_IMAGES,Product Images
+PRODUCT_CATALOGUE,Product Catalogue
+PRODUCT_PRICE_LIST,Product Price List
+PRODUCT_DESCRIPTION,Product Description
+VIEW_PRODUCTS,View Products
+VIEW_IMAGES,View images
+CONTACT_INFORMATION,CONTACT INFORMATION
+SALES_REPRESENTATIVE,SALES REPRESENTATIVE
+BUSINESS_DETAILS,BUSINESS DETAILS
+SHIPPING_ADDRESS,Shipping Address
+CREDIT,Credit
+BALANCE,Balance
+BUSINESS_USERS,BUSINESS USERS
+COMPANY_NAME,Company Name
+CONTACT_PERSON,Contact Person
+TRACKINGID,Tracking ID
+SHIPMENT_DETAILS,Shipment Details
+TRACKING,TRACKING
+SHIPMENT_LIST,Shipment List
+APP_SETTINGS,App Settings
+PUSH_NOTIFICATION,Push Notification
+SIGNIN_ACCOUNT_FIRST,Please sign in to your account first
+EMAIL,Email
+PASSWORD,Password
+FORGOT_PASSWORD,Forgot password?
+EMAIL_REQUIRED,"Invalid Email, Please enter a valid email address."
+PASSWORD_REQUIRED,"Invalid Password, Please enter a valid password."
+LOADING,Loading
+CREDIT_LIMIT,Credit Limit
+AVAILABLE_CREDIT_LIMIT,Available
+YOUR_ACCOUNT,Your Account
+OVERVIEW,Overview
+PERSONAL_DETAILS,Personal Details
+PARTNER_PORTAL,Customer Portal
+MY_WISH_LIST,My Wish List
+ADDRESS_BOOK,Address Book
+REQUEST_FOR_LOGO,Request For Logo
+FIND_SOMETHING,Find something
+SALE,Sale
+LIMITED_COLLECTION_2026,Preview Limited Collection 2026
+CONFIRM_ACTION,Confirm Action
+WIST_DELETE_MSG,Are you sure you want to remove this product from your wishlist?
+CANCEL,Cancel
+YES,Yes
+MY_CART,My Cart
+COLOR,Color
+SIZE,Size
+ADD_PROMO_CODE,Add Promo Code
+ENTER_COUPON_CODE,Enter coupon code
+APPLY,APPLY
+COUPON_APPLIED,Coupon applied
+REMOVE,Remove
+ADD_A_NOTE,Add a note
+DISCOUNT,Discount
+TOTAL,Total
+PLACE_ORDER,Place Order
+YOUR_CART_EMPTY,You have no items in your shopping cart.
+CONTINUE_SHIPPING,Continue Shopping
+ALL_PRODUCT_DELETE_MSG,Are you sure to remove all products from your cart?
+SUCCESSFULLY_REMOVED,Successfully Removed
+PRODUCT_DELETE_MSG,Are you sure you want to remove this product from your cart?
+SUCCESSFULLY_ADDED,Successfully Added
+CHOOSE_SIZE,Choose size
+ADDED_ITEM,Added Item
+ADD_TO_BAG,Add to bag
+DISCOUNT_APPLICABLE_MSG,Note: Above discount will be applicable only on same color and size
+DELIVERY_BETWEEN_WEEKS,Delivery time between 2 to 4 weeks
+CHECK_AVAILABILITY,Availability
+THIS_IS_REQUIRED_FIELD,This is a required field.
+SELECT_SIZE,Select a size
+DETAILS,Details
+ITEM_ADDED_SUCCESSFULLY,Items added successfully
+EACH_AND_SAVE,each and save
+BUY,Buy
+FOR,for
+INVALID_COUPN,Invalid Coupon
+SUCCESSFULLY_UPDATED,Successfully Updated
+DISCOUNT_ADDED,Discount Added
+DISCOUNT_REMOVED,Discount Removed
+CHOOSE_DELIVERY_OPTIONS,Please choose a delivery option for missing items:
+ACCEPT_TERMS_CONDITIONS,I accept the terms and conditions
+AGREED_PAYMENT_TERMS,Agreed Payment Terms apply
+SHIPPING_COSTS,Shipping costs
+CART_SUBTOTAL,Cart Subtotal
+SHIPPING_V1,Shipping
+CHANGE_PASSWORD,Change Password
+ACCOUNT_DELETION,Account deletion
+DELETE_DATA,Request or delete data
+SIGNOUT,Sign out
+ORDERS_LIST,Orders List
+ORDER_V1,Order
+REORDER,Reorder
+ORDER_DATE,Order Date
+COMMENTS_V1,Comment
+ITEM_ORDERED,Items Ordered
+ORDER_SUMMARY,Order Summary
+QUANTITY_V1,Quantity
+ADDRESS_LIST,Address List
+DEFAULT_SHIPPING_ADDRESS,Default Shipping Address
+DEFAULT_BILLING_ADDRESS,Default Billing Address
+NO_ITEM_FOUND,No Item Found
+REQUEST_V1,Request
+SAVED_TO,Saved to:
+FAILED_DOWNLOAD_IMAGE,Failed to download the image.
+FILTERS_V1,Filters
+ALL_FILTERS,All filters
+NO_NOTIFICATION_FOUND,No notifications yet
+MARK_ALL_AS_READ,Mark all as read
+CLEAR_ALL,Clear all
+NOTIFICATION_V1,Notification
+NO_INTERNET_CONNECTION,No Internet Connection
+CHECK_YOUR_CONNECTION,Please check your connection and try again.
+ENTER_EMAIL_TO_GET_PASS,Please enter your email address to receive a password reset link.
+LANGUAGE,Language
+CAPTCHA,Captcha
+RESET_MY_PASSWORD,Reset my password
+ERROR_V1,Error
+INCORRECT_CAPTCHA,"Incorrect CAPTCHA, try again."
+ENTER_VALID_EMAIL,"Invalid Email, Please enter a valid email address."
+EMAIL_RECEIVED_RESET_PASS,you will receive an email with a link to reset your password.
+CURRENT_PASSWORD,Current Password
+ENTER_CURRENT_PASSWORD,Enter current password
+NEW_PASSWORD,New Password
+ENTER_NEW_PASSWORD,Enter new password
+CONFIRM_NEW_PASSWORD,Confirm New Password
+SAVE_V1,Save
+ALL_FIELDS_REQUIRED,All fields are required.
+NEW_CONFIRM_PASS_NOT_MATCH,New password and confirm password do not match.
+NEW_PASS_DIFFERENT_MSG,New password must be different from current password.
+PASS_CHANGED_SUCCESSFULLY,Password changed successfully.
+SOMETHING_WENT_WRONG,Something went wrong. Please try again.
+PASS_CHANGE_FAILED,Failed to change password. Please check your current password.
+SIZE_SELECTED,Size Selected
+USER_DELETE_MSG,Are you sure you want to delete your account?
+VIDEO_V1,Video
+SUBMIT_V1,Submit
+DELIVERED_ON,Delivered On
+RECEIVED_BY,Received By
+SHIPMENT_FROM,Shipment from
+SHIP_TO,Ship To
+ESTIMATE_DELIVERY,Estimated delivery
+SELECT_PAYMENT_METHOD,Please Select Payment Method
+CHECK_TERMS_CONDITION,Please check terms and conditions
+SEEMS_NOTHING_HERE,It seems nothing in here.
+MY_ACCOUNT,My Account
+UPDATE_FAILED,Update Failed
+SEARCH_V1,Search
+CLEAR,Clear
+PREVIOUS_SEARCHES,Previous Search
+PAYMENT_FAILED,Payment Failed
+COVERS,Covers
+SORT_BY,Sort by
+RESET,Reset
+SHOW_ALL_RESULT,Show All Results
+SHOW_V1,Show
+RESULT,Result
+CATEGORIES,Categories
+DELIVERY_AVAILABILITY,Delivery Availability
+ITEM_V1,Item
+WILL_BE_AVAILABLE,will be available on
+WITH_QUANTITY,with the quantity
+CLOSE_V1,Close
+CHECK_AVAILABILITY_EMPTY_MSG,Please contact our sales team to check the stock status for this item
+PARTIAL_DELIVERY,Partial Delivery
+DELAYED_DELIVERY,Delayed Delivery
+PAYMENT,Payment
+UPDATE_REQUIRED,Update Required
+UPDATE_REQUIRED_MSG,A new version is available. Please update the app to continue.
+UPDATE_NOW,Update Now
+WELCOME,Welcome
+NAME,Name
+CHAR_LEFT,characters left
+SAVE_COMMENT,Save Comment
+BRIDAL_DATE,Wedding date
+DONE,Done
+SERVICE_CALL,Service Call
+IMAGES_SIZE_V1,Images (Max size: 5 MB each)
+SELECT_IMAGES,Select Images
+VIDEO_SIZE_V1,Video (Max size: 20 MB)
+SELECT_VIDEO,Select Video
+ONLY_ONE_VIDEO,Only one video allowed
+REMOVE_EXISTING_VIDEO,Please remove the existing video before selecting another.
+SUBMITTING,Submitting...
+SERVICE_CALL_SUBMIT_MSG,Service call submitted successfully.
+SERVICE_VALIDATION_ERROR,Validation Error
+ENTER_YOUR_NAME,Please enter your name.
+ENTER_YOUR_COMMENT,Please enter your comment.
+SELECT_ONE_IMAGE,Please select at least one image.
+VIDEO_TOO_LARGE,Video too large
+EXCEEDS_MB_VIDEO_LIMIT,exceeds the 20 MB limit.
+IMAGE_LIMIT_REACHED,Image limit reached
+UPLOAD_MAX_FIVE_IMAGES,You can upload a maximum of 5 images.
+IMAGE_TOO_LARGE,Image too large
+EXCEEDS_MB_IMAGE_LIMIT,exceeds the 5 MB limit.
+IMAGE_V1,Image
+MESSAGE,Message
+YOUR_SHIPMENT,Your shipment
+TRACKING_FAILED_MSG,Currently, we are not able to provide the tracking details. We can’t locate shipments if we haven’t received information from the shipper yet, or if the package information is older than 120 days
+ESTIMATED_DELIVERY_SOON,Estimated delivery date will be available as soon as we get the package
+MONETICO_GATEWAY,Credit Card Payment
+STRIPE_GATEWAY,Pay on Card(Stripe)
+PAYPAL_GATEWAY,PayPal Express Checkout
+REVOLUT_GATEWAY,revolut
+SUPPORT,Support
+WE_HERE_HELP_YOU,We're here to help you
+CUSTOMER_INFORMATION,Your Customer Information
+CUSTOMER_NUMBER,Your Customer Number:
+ACCOUNT_MANAGER_BY,Your Account Manager by Bianco Evento
+BUSINESS_HOURS,Business Hours
+OPERATIONAL_MONDAY_FROM,We are operational from Monday to
+OPERATIONAL_FRIDAY_TO,Friday from 7 a.m. to 16 p.m.
+CHAT_WITH_US,Chat with us
+SELECT_COLOR,Select Color
+OUT_OF_STOCK,Out Of Stock
+READY,Ready
+LOADING_PROFILE,Loading Profile...
+SETTING_UP_STORE,Setting Up Store...
+PREPARING_CONTENT,Preparing Content...
+AUTHENTICATING,Authenticating...
+INITIALIZING,Initializing...
+LOADING_CONFIGURATION,Loading Configuration...
+MY_LAST_10_ORDERED_PRODUCTS,My Last 10 Ordered Products
+ITEM_CODE,Item Code
+AVAILABLE_V1,Available
+FIVE_PCS_AVAILABLE,5pcs or less available
+CURRENTLY_NOT_STOCK,Currently Not in Stock
+UNAVAILABLE_V1,Unavailable
+SHIPPING_TYPE,Shipping Type
+DELIVERY_DATE,Delivery Date
+PAYMENT_TERMS,Payment Terms
+DELIVERD,Delivered
+SHIPPING_CARRIER,Shipping Carrier
+ORDER_NUMBER,Order Number
+DUE_DATE,Due Date
+DISCOUNT_AMOUNT,Discount Amount
+DELIVERY_NUMBER,Delivery Number
+UNIT_OF_MEASURE,Unit of measure
+INVOICE_NO,Invoice Number
+SALES_ITEMS,Sales Items
+POPULAR_PRODUCTS,Popular Products
+JUST_FOR_YOU,Just For You
+NO_SUBCAT_FOUND,No subcategories found
+PROCEED_TO_CHECKOUT,Proceed to Checkout
+LOOKS_ADDED_MSG,Looks like you haven't added anything to your cart yet
+LOADING_CART,Loading cart...
+ITEMS_V1,items
+REMOVE_ITEM,Remove Item
+NO_WISHLIST_YET,No favourites yet
+SHOP_NOW,Shop Now
+YOU_ARE_BROWSING_GUEST,You are browsing as Guest
+SIGNIN_TO_ACCESSORDER_MSG,Sign in to access your orders, wishlist, and saved details
+SIGNON_CREATE_ACCOUNT,Sign In / Create Account
+MY_ORDERS,My Orders
+SAVED_ADDRESS,Save Address
+CONTACT_US,Contact Us
+BACK,Back!
+SIGNUP,Sign Up
+CREATE_AN_ACCOUNT,Create An Account
+INCORRECT_CAPTCHA_TRY_AGAIN,Error", "Incorrect CAPTCHA, try again
+IF_CUSTOMER_ACCOUNT_LINKED_TO,If a customer account is linked to
+YOU_WILL_RECEIVE_EMAIL_RESET_PASSWORD,you will receive an email with a link to reset your password.
+FORGOT_YOUR_PASSWORD,Forgot your password?
+PLEASE_ENTER_EMAIL_RESET_LINK,Please enter your email address to receive a password reset link.
+FIRST_NAME_REQUIRED,First Name is required
+LAST_NAME_REQUIRED,Last Name is required
+PASSWORD_MIN_8_CHARACTERS,Password must be at least 8 characters
+PASSWORD_UPPERCASE_REQUIRED,Password must contain at least one uppercase letter
+PASSWORD_NUMBER_REQUIRED,Password must contain at least one number
+PASSWORD_SPECIAL_CHAR_REQUIRED,Password must contain at least one special character
+CONFIRM_PASSWORD_REQUIRED,Please confirm your password
+PASSWORDS_DO_NOT_MATCH,Passwords do not match
+REGISTRATION_FAILED_TRY_AGAIN,Registration failed. Please try again.
+CREATE_ACCOUNT,Create Account
+FIRST_NAME,First Name
+LAST_NAME,Last Name
+CONFIRM_PASSWORD,Confirm Password
+ALREADY_HAVE_ACCOUNT,Already have an account?
+INCLUSIVE_OF_ALL_TAXES,Inclusive of all taxes
+DESCRIPTION_LABEL,Description:
+VIEW_PRODUCT_DETAILS,View product details
+REVIEWS,Reviews
+VIEW_ALL,View All
+NO_REVIEWS_YET,No reviews yet
+WRITE_A_REVIEW,Write a Review
+ITEM_ADDED,Item Added
+VIEW_CART,View Cart
+ITEM_SINGULAR,Item
+ITEMS_PLURAL,Items
+PRODUCT_DATA_NOT_AVAILABLE,Product data not available
+PLEASE_SELECT_ALL_PRODUCT_OPTIONS,Please select all product options
+FAILED_TO_CREATE_CART,Failed to create cart
+FAILED_TO_CREATE_GUEST_CART,Failed to create guest cart
+FAILED_TO_ADD_PRODUCT_TO_CART,Failed to add product to cart
+UNEXPECTED_ERROR_OCCURRED,An unexpected error occurred
+PLEASE_LOGIN_TO_ADD_WISHLIST,Please login to add to wishlist
+PRODUCT_SKU_NOT_AVAILABLE,Product SKU not available
+FAILED_TO_ADD_WISHLIST,Failed to add to wishlist
+ADDED_TO_WISHLIST,Added to wishlist
+YOU_ARE_REVIEWING,You're reviewing:
+YOUR_RATING,Your Rating
+NICKNAME,Nickname
+SUMMARY,Summary
+REVIEW,Review
+SUBMIT_REVIEW,Submit Review
+SUBMITTING,Submitting...
+PLEASE_SELECT_RATING,Please select a rating
+NICKNAME_REQUIRED,Nickname is required
+NICKNAME_MIN_2_CHARACTERS,Nickname must be at least 2 characters
+SUMMARY_REQUIRED,Summary is required
+SUMMARY_MIN_5_CHARACTERS,Summary must be at least 5 characters
+REVIEW_REQUIRED,Review is required
+REVIEW_MIN_10_CHARACTERS,Review must be at least 10 characters
+PLEASE_LOGIN_TO_SUBMIT_REVIEW,Please login to submit a review
+AUTHENTICATION_REQUIRED_PLEASE_LOGIN,Authentication required. Please login again.
+REVIEW_SUBMITTED_SUCCESSFULLY,Review submitted successfully!
+FAILED_TO_SUBMIT_REVIEW,Failed to submit review
+ERROR_OCCURRED_SUBMITTING_REVIEW,An error occurred while submitting your review
+AUTHENTICATION_FAILED_PLEASE_LOGIN,Authentication failed. Please login again.
+ALREADY_REVIEWED_PRODUCT,You have already reviewed this product.
+SORT_BY,Sort by:
+NEWEST,Newest
+OLDEST,Oldest
+HIGHEST,Highest
+LOWEST,Lowest
+ANONYMOUS,Anonymous
+REVIEW_SINGULAR,review
+REVIEWS_PLURAL,reviews
+BE_FIRST_TO_REVIEW_PRODUCT,Be the first to review this product
+PLEASE_ENTER_EMAIL_AND_PASSWORD,Please enter both email and password
+INVALID_EMAIL_OR_PASSWORD,Invalid email or password
+LOGIN_FAILED_TRY_AGAIN,Login failed. Please try again.
+ERROR,Error
+FAILED_TO_SAVE_ADDRESS_TRY_AGAIN,Failed to save address. Please try again.
+VALID_EMAIL_REQUIRED,Valid email is required
+FIRST_NAME_REQUIRED,First Name is required
+LAST_NAME_REQUIRED,Last Name is required
+STREET_REQUIRED,Street is required
+CITY_REQUIRED,City is required
+POSTAL_CODE_REQUIRED,Postal Code is required
+TELEPHONE_REQUIRED,Telephone is required
+STATE_PROVINCE_REQUIRED,State/Province is required
+BILLING_FIRST_NAME_REQUIRED,Billing First Name is required
+BILLING_LAST_NAME_REQUIRED,Billing Last Name is required
+BILLING_STREET_REQUIRED,Billing Street is required
+BILLING_CITY_REQUIRED,Billing City is required
+BILLING_POSTAL_CODE_REQUIRED,Billing Postal Code is required
+BILLING_TELEPHONE_REQUIRED,Billing Telephone is required
+BILLING_STATE_PROVINCE_REQUIRED,Billing State/Province is required
+ENTER_YOUR_EMAIL,Enter Your Email
+WELL_CHECK_IF_ACCOUNT_EXISTS,We'll check if you have an account with us
+EMAIL_ADDRESS,Email Address
+CHECK,Check
+CHECKING_EMAIL,Checking email...
+WELCOME_BACK,Welcome Back!
+ACCOUNT_FOUND_PLEASE_SIGN_IN,We found an account with this email. Please sign in.
+PASSWORD,Password
+ENTER_YOUR_PASSWORD,Enter your password
+SIGN_IN_CONTINUE,Sign In & Continue
+SHIPPING_INFORMATION,Shipping Information
+FORM_FILLED_PREVIOUS_INFO_CAN_EDIT,We've filled this form with your previous information. You can edit any field below.
+START_FRESH,Start Fresh
+CAN_EDIT_EMAIL_IF_NEEDED,You can edit your email address if needed
+SHIPPING_ADDRESS,Shipping Address
+FIRST_NAME,First Name
+LAST_NAME,Last Name
+STREET_ADDRESS,Street Address
+COUNTRY,Country
+SELECT_COUNTRY,Select Country
+SEARCH,Search
+STATE_PROVINCE,State/Province
+SELECT_STATE,Select State
+ENTER_STATE_PROVINCE,Enter State/Province
+CITY,City
+POSTAL_CODE,Postal Code
+TELEPHONE,Telephone
+USE_SAME_ADDRESS_FOR_BILLING,Use same address for billing
+BILLING_ADDRESS,Billing Address
+UPDATE_ADDRESS,Update Address
+SIGNIN,Sign In
+UPDATE_CONTINUE,Update & Continue
+CONTINUE_TO_CHECKOUT,Continue to Checkout
+CHECKOUT,Checkout
+SHIPPING_ADDRESS,Shipping Address
+CHANGE,Change
+BILLING_ADDRESS,Billing Address
+SHIPPING_METHOD,Shipping Method
+ORDER_ITEMS,Order Items
+ORDER_SUMMARY,Order Summary
+SUBTOTAL,Subtotal
+VAT_18_PERCENT,VAT (18%)
+SHIPPING_FEE,Shipping fee
+DISCOUNT,Discount
+TOTAL,Total
+TOTAL_AMOUNT,Total Amount
+PAYMENT_METHOD,Payment Method
+PROMO_CODE,Promo Code
+ENTER_PROMO_CODE,Enter promo code
+APPLY,Apply
+PLACE_ORDER,Place Order
+LOADING_SHIPPING_METHODS,Loading shipping methods...
+NO_SHIPPING_METHODS_AVAILABLE,No shipping methods available
+NO_PAYMENT_METHODS_AVAILABLE,No payment methods available
+SIZE,Size
+COLOR,Color
+QTY,Qty
+PHONE,Phone
+NO_ADDRESS_AVAILABLE,No address available
+ADD_ADDRESS,Add Address
+DEFAULT,Default
+SAME,Same
+EXPIRES,Expires
+PLEASE_ENTER_PROMO_CODE,Please enter a promo code
+COUPON_ALREADY_APPLIED_REMOVE_FIRST,A coupon is already applied. Please remove it first.
+COUPON_APPLIED,Coupon applied
+FAILED_TO_APPLY_COUPON,Failed to apply coupon
+COUPON_REMOVED,Coupon removed
+FAILED_TO_REMOVE_COUPON,Failed to remove coupon
+PLEASE_COMPLETE_ALL_CHECKOUT_STEPS,Please complete all checkout steps before placing your order.
+FAILED_TO_PLACE_ORDER,Failed to place order
+UNKNOWN_ERROR,Unknown error
+FAILED_TO_PLACE_ORDER_TRY_AGAIN,Failed to place order. Please try again.
+ORDER_PLACED_SUCCESSFULLY,Order Placed Successfully!
+ORDER_NUMBER,Order Number
+THANK_YOU_FOR_SHOPPING,Thank you for shopping with us!
+BACK_TO_HOME,Back to Home
+FIRST_NAME_REQUIRED,First Name is required
+LAST_NAME_REQUIRED,Last Name is required
+STREET_REQUIRED,Street is required
+CITY_REQUIRED,City is required
+POSTAL_CODE_REQUIRED,Zip/Postal Code is required
+STATE_PROVINCE_REQUIRED,State/Province is required
+ADDED_SUCCESSFULLY,Added Successfully
+UPDATE_SUCCESSFULLY,Update Successfully
+ERROR_ADDING_ADDRESS,Error adding address
+ERROR_UPDATING_ADDRESS,Error updating address
+UPDATE_ADDRESS,Update Address
+ADD_NEW_ADDRESS,Add New Address
+CONTACT_INFORMATION,Contact Information
+FIRST_NAME,First Name
+LAST_NAME,Last Name
+PHONE_NO,Phone No
+ADDRESS,Address
+STREET,Street
+COUNTRY,Country
+SEARCH,Search
+STATE_PROVINCE,State/Province
+PLEASE_SELECT_REGION_STATE_PROVINCE,Please select a region, state or province.
+CITY,City
+ZIP_POSTAL_CODE,Zip/Postal Code
+ITS_DEFAULT_BILLING_ADDRESS,It's a default billing address.
+USE_AS_DEFAULT_BILLING_ADDRESS,Use as my default billing address
+ITS_DEFAULT_SHIPPING_ADDRESS,It's a default shipping address.
+USE_AS_DEFAULT_SHIPPING_ADDRESS,Use as my default shipping address
+SAVE_ADDRESS,Save Address
+MY_ACCOUNT,My Account
+FIRST_NAME_REQUIRED,First Name is required
+LAST_NAME_REQUIRED,Last Name is required
+EMAIL_REQUIRED,Email is required
+EMAIL_ADDRESS_INVALID,Email address is invalid
+EMAIL_ADDRESS_ALREADY_EXISTS,Email address already exist
+CURRENT_PASSWORD_REQUIRED,Current Password is required
+PASSWORD_REQUIRED,Password is required
+PASSWORD_VALIDATION_MESSAGE,Your password must be 8 characters long and atleast one Lower Case, Upper Case, Digits, Special Characters.
+CONFIRM_PASSWORD_REQUIRED,Confirm Password is required
+PASSWORD_CONFIRM_MUST_MATCH,Password and Confirm Password must be same
+UPDATE_FAILED,Update failed
+ACCOUNT_UPDATED_SUCCESSFULLY,Account Updated Successfully!
+FIRST_NAME,First Name
+LAST_NAME,Last Name
+EMAIL,Email
+INVALID_EMAIL_FORMAT,Invalid email format
+CHANGE_PASSWORD,Change Password
+OLD_PASSWORD,Old Password
+NEW_PASSWORD,New Password
+NEW_CONFIRM_PASSWORD,New Confirm Password
+SHOW_PASSWORD,Show Password
+LOADING,Loading
+UPDATE,Update
+DELETED_SUCCESSFULLY,Deleted Successfully
+CONFIRM_DELETE,Confirm Delete
+ARE_YOU_SURE_DELETE_ADDRESS,Are you sure you want to delete this address?
+PHONE_NUMBER,Phone Number
+EDIT,Edit
+NO_ADDRESSES_FOUND,No addresses found
+ADD_FIRST_ADDRESS_TO_GET_STARTED,Add your first address to get started
+ADDRESS_BOOK,Address Book
+DEFAULT_ADDRESSES,Default Addresses
+DEFAULT_BILLING_ADDRESS,Default Billing Address
+DEFAULT_SHIPPING_ADDRESS,Default Shipping Address
+ADDITIONAL_ADDRESS_ENTRIES,Additional Address Entries
+PHONE_SHORT,T
+MY_OPEN_ORDERS,My Orders
+SEEMS_NOTHING_HERE,Seems like nothing is here
+CONTINUE_SHIPPING,Continue Shopping
+ORDER_NOT_FOUND,Order not found.
+ORDER_DETAILS,Order details
+ORDER,Order
+GRAND_TOTAL,Grand Total
+ITEMS_ORDERED,Items Ordered
+SKU,SKU
+SHIPPING_HANDLING,Shipping & Handling
+TAX,Tax
+ORDER_INFORMATION,Order Information
+VIEW_DETAILS,View Details
+REORDER,Reorder
+REORDER_PLACED,Reorder placed!

@@ -1,0 +1,585 @@
+SIGNIN,Anmelden
+DASHBOARD,Dashboard
+SHOPPING,Einkaufen
+PARTNER_PROGRAM,Partnerprogramm
+TRAINING_AND_ONBOARDING_RESOURCES,Schulungs- und Onboarding-Ressourcen
+INVOICES,Rechnungen
+SALES_ORDERS,Bestellungen
+PRODUCT_INFORMATION,Produktinformationen
+MY_COMPANY,Mein Unternehmen
+CREDIT_NOTES,Gutschriften
+ABOUT_US,Über uns
+BALANCE_SHEET,Bilanz
+MY_OPEN_ORDERS,MEINE OFFENEN BESTELLUNGEN
+COUNT,ANZAHL
+AMOUNT,BETRAG
+MY_OPEN_INVOICES,MEINE OFFENEN RECHNUNGEN
+TOP_MOST_PURCHASED_PRODUCTS,TOP 10 MEISTGEKAUFTE PRODUKTE
+ORDERS,Bestellungen
+ORDER_ID_SAP,Bestellnummer (SAP)
+ORDER_ID_ONLINE,Bestellnummer (Online)
+STATUS,Status
+DATE,Datum
+ORDER_TOTAL,Gesamtbetrag der Bestellung
+PLEASE_ENTER_TO_DATE,Bitte geben Sie das Enddatum ein
+PLEASE_ENTER_FROM_DATE,Bitte geben Sie das Startdatum ein
+OPENED,Geöffnet
+CLOSED,Geschlossen
+CANCELLED,Storniert
+PARTIAL_PENDING,Teilweise ausstehend
+PENDING,Ausstehend
+PAID,Bezahlt
+FROM_DATE,Von-Datum
+TO_DATE,Bis-Datum
+SELECT_STATUS,Status auswählen
+NUMBER,Nummer
+ENTER_NUMBER,Nummer eingeben
+APPLY_FILTER,FILTER ANWENDEN
+CLEAR_FILTER,FILTER ZURÜCKSETZEN
+ORDER_DETAILS,Bestelldetails
+ORDER_NO,Bestellnummer
+ORDER_ITEMS,Bestellartikel
+SKU_V1,Artikelnummer (SKU)
+PRICE,Preis
+QTY_V1,Menge
+TAX_V1,Steuer
+SUBTOTAL,Zwischensumme
+TOTAL_BEFORE_TAX,Gesamtsumme vor Steuern
+TOTAL_TAX_AMOUNT,Gesamte Steuerbetrag
+GRAND_TOTAL,Gesamtsumme
+ORDER_INFORMATION,Bestellinformationen
+DELIVERY_ADDRESS,Lieferadresse
+BILLING_ADDRESS,Rechnungsadresse
+SHIPPING_METHOD,Versandart
+PAYMENT_METHOD,Zahlungsmethode
+DOWNLOAD_COMPLETE,Download abgeschlossen
+DOWNLOAD_FAILED,Download fehlgeschlagen
+INVOICE_DETAILS,Rechnungsdetails
+BALANCE_DUE,Offener Betrag
+PAY_V1,Bezahlen
+INVOICE_ID,Rechnungsnummer
+CREDIT_NOTE_LIST,Gutschriftsliste
+CREDIT_NOTE_NO,Gutschriftsnummer
+CREDIT_NOTE_ONLINE,Gutschrift (Online)
+SHOW_LESS,Weniger anzeigen
+SHOW_MORE,Mehr anzeigen
+CREDIT_NOTE_DETAILS,Gutschriftsdetails
+HOME,Startseite
+SELECT_ALL,Alles auswählen
+PAYMENT_SUCCESSFUL,Zahlung erfolgreich
+CHOOSE_PAYMENT_METHOD,Zahlungsmethode auswählen
+PAYBLE_AMOUNT,Zu zahlender Betrag
+SHIPMENT,Lieferung
+TRAINING_RESOURCES,Schulungsressourcen
+WATCH_VIDEO,Video ansehen
+WATCH,Ansehen
+DOWNLOAD,Herunterladen
+DOCUMENTATION,Dokumentation
+VIEW_V1,Anzeigen
+NEW_COLLECTION,Neue Kollektion
+PRODUCT_IMAGES,Produktbilder
+PRODUCT_CATALOGUE,Produktkatalog
+PRODUCT_PRICE_LIST,Preisliste
+PRODUCT_DESCRIPTION,Produktbeschreibung
+VIEW_PRODUCTS,Produkte anzeigen
+VIEW_IMAGES,Bilder anzeigen
+CONTACT_INFORMATION,KONTAKTINFORMATIONEN
+SALES_REPRESENTATIVE,VERTRIEBSMITARBEITER
+BUSINESS_DETAILS,UNTERNEHMENSDETAILS
+SHIPPING_ADDRESS,Lieferadresse
+CREDIT,Kredit
+BALANCE,Guthaben
+BUSINESS_USERS,UNTERNEHMENSBENUTZER
+COMPANY_NAME,Firmenname
+CONTACT_PERSON,Ansprechpartner
+TRACKINGID,Sendungsnummer
+SHIPMENT_DETAILS,Versanddetails
+TRACKING,SENDUNGSVERFOLGUNG
+SHIPMENT_LIST,Versandliste
+APP_SETTINGS,App-Einstellungen
+PUSH_NOTIFICATION,Push-Benachrichtigung
+SIGNIN_ACCOUNT_FIRST,Bitte melden Sie sich zuerst in Ihrem Konto an
+EMAIL,E-Mail
+PASSWORD,Passwort
+FORGOT_PASSWORD,Passwort vergessen?
+EMAIL_REQUIRED,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
+PASSWORD_REQUIRED,"Ungültiges Passwort, bitte geben Sie ein gültiges Passwort ein."
+LOADING,Wird geladen
+CREDIT_LIMIT,Kreditlimit
+AVAILABLE_CREDIT_LIMIT,Verfügbar
+YOUR_ACCOUNT,Ihr Konto
+OVERVIEW,Übersicht
+PERSONAL_DETAILS,Persönliche Daten
+PARTNER_PORTAL,Kundenportal
+MY_WISH_LIST,Meine Wunschliste
+ADDRESS_BOOK,Adressbuch
+REQUEST_FOR_LOGO,Logo anfordern
+FIND_SOMETHING,Suchen
+SALE,Sale
+LIMITED_COLLECTION_2026,Vorschau LIMITIERTE Kollektion 2026
+CONFIRM_ACTION,Aktion bestätigen
+WIST_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus Ihrer Wunschliste entfernen?
+CANCEL,Abbrechen
+YES,Ja
+MY_CART,Mein Warenkorb
+COLOR,Farbe
+SIZE,Größe
+ADD_PROMO_CODE,Promo-Code hinzufügen
+ENTER_COUPON_CODE,Gutscheincode eingeben
+APPLY,ANWENDEN
+COUPON_APPLIED,Gutschein angewendet
+REMOVE,Entfernen
+ADD_A_NOTE,Notiz hinzufügen
+DISCOUNT,Rabatt
+TOTAL,Gesamt
+PLACE_ORDER,Bestellung abschließen
+YOUR_CART_EMPTY,Sie haben keine Artikel in Ihrem Warenkorb.
+CONTINUE_SHIPPING,Weiter einkaufen
+ALL_PRODUCT_DELETE_MSG,Möchten Sie wirklich alle Produkte aus dem Warenkorb entfernen?
+SUCCESSFULLY_REMOVED,Erfolgreich entfernt
+PRODUCT_DELETE_MSG,Möchten Sie dieses Produkt wirklich aus dem Warenkorb entfernen?
+SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
+CHOOSE_SIZE,Größe wählen
+ADDED_ITEM,Artikel hinzugefügt
+ADD_TO_BAG,In den Warenkorb legen
+DISCOUNT_APPLICABLE_MSG,Hinweis: Der oben genannte Rabatt gilt nur für gleiche Farbe und Größe
+DELIVERY_BETWEEN_WEEKS,Lieferzeit zwischen 2 und 4 Wochen
+CHECK_AVAILABILITY,Verfügbarkeit
+THIS_IS_REQUIRED_FIELD,Dieses Feld ist erforderlich.
+SELECT_SIZE,Größe auswählen
+DETAILS,Details
+ITEM_ADDED_SUCCESSFULLY,Artikel erfolgreich hinzugefügt
+EACH_AND_SAVE,jeweils und sparen
+BUY,Kaufen
+FOR,für
+INVALID_COUPN,Ungültiger Gutschein
+SUCCESSFULLY_UPDATED,Erfolgreich aktualisiert
+DISCOUNT_ADDED,Rabatt hinzugefügt
+DISCOUNT_REMOVED,Rabatt entfernt
+CHOOSE_DELIVERY_OPTIONS,Bitte wählen Sie eine Versandoption für fehlende Artikel:
+ACCEPT_TERMS_CONDITIONS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
+AGREED_PAYMENT_TERMS,Vereinbarte Zahlungsbedingungen gelten
+SHIPPING_COSTS,Versandkosten
+CART_SUBTOTAL,Warenkorb Zwischensumme
+SHIPPING_V1,Versand
+CHANGE_PASSWORD,Passwort ändern
+ACCOUNT_DELETION,Konto löschen
+DELETE_DATA,Daten anfordern oder löschen
+SIGNOUT,Abmelden
+ORDERS_LIST,Bestellliste
+ORDER_V1,Bestellung
+REORDER,Erneut bestellen
+ORDER_DATE,Bestelldatum
+COMMENTS_V1,Kommentar
+ITEM_ORDERED,Bestellte Artikel
+ORDER_SUMMARY,Bestellübersicht
+QUANTITY_V1,Menge
+ADDRESS_LIST,Adressliste
+DEFAULT_SHIPPING_ADDRESS,Standard-Lieferadresse
+DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
+NO_ITEM_FOUND,Kein Artikel gefunden
+REQUEST_V1,Anfrage
+SAVED_TO,Gespeichert unter:
+FAILED_DOWNLOAD_IMAGE,Bild konnte nicht heruntergeladen werden.
+FILTERS_V1,Filter
+ALL_FILTERS,Alle Filter
+NO_NOTIFICATION_FOUND,Noch keine Benachrichtigungen
+MARK_ALL_AS_READ,Alle als gelesen markieren
+CLEAR_ALL,Alle löschen
+NOTIFICATION_V1,Benachrichtigung
+NO_INTERNET_CONNECTION,Keine Internetverbindung
+CHECK_YOUR_CONNECTION,Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.
+ENTER_EMAIL_TO_GET_PASS,Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen Ihres Passworts zu erhalten.
+LANGUAGE,Sprache
+CAPTCHA,Captcha
+RESET_MY_PASSWORD,Passwort zurücksetzen
+ERROR_V1,Fehler
+INCORRECT_CAPTCHA,"Falsches CAPTCHA, bitte erneut versuchen."
+ENTER_VALID_EMAIL,"Ungültige E-Mail, bitte geben Sie eine gültige Adresse ein."
+EMAIL_RECEIVED_RESET_PASS,Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.
+CURRENT_PASSWORD,Aktuelles Passwort
+ENTER_CURRENT_PASSWORD,Aktuelles Passwort eingeben
+NEW_PASSWORD,Neues Passwort
+ENTER_NEW_PASSWORD,Neues Passwort eingeben
+CONFIRM_NEW_PASSWORD,Neues Passwort bestätigen
+SAVE_V1,Speichern
+ALL_FIELDS_REQUIRED,Alle Felder sind erforderlich.
+NEW_CONFIRM_PASS_NOT_MATCH,Neues Passwort und Bestätigung stimmen nicht überein.
+NEW_PASS_DIFFERENT_MSG,Neues Passwort muss sich vom aktuellen unterscheiden.
+PASS_CHANGED_SUCCESSFULLY,Passwort erfolgreich geändert.
+SOMETHING_WENT_WRONG,Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
+PASS_CHANGE_FAILED,Passwort konnte nicht geändert werden. Bitte prüfen Sie Ihr aktuelles Passwort.
+SIZE_SELECTED,Größe ausgewählt
+USER_DELETE_MSG,Möchten Sie Ihr Konto wirklich löschen?
+VIDEO_V1,Video
+SUBMIT_V1,Absenden
+DELIVERED_ON,Geliefert am
+RECEIVED_BY,Erhalten von
+SHIPMENT_FROM,Versendet von
+SHIP_TO,Versendet an
+ESTIMATE_DELIVERY,Voraussichtliche Lieferung
+SELECT_PAYMENT_METHOD,Bitte wählen Sie eine Zahlungsmethode
+CHECK_TERMS_CONDITION,Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen
+SEEMS_NOTHING_HERE,Hier ist scheinbar nichts drin.
+MY_ACCOUNT,Mein Konto
+UPDATE_FAILED,Aktualisierung fehlgeschlagen
+SEARCH_V1,Suchen
+CLEAR,Löschen
+PREVIOUS_SEARCHES,Frühere Suche
+PAYMENT_FAILED,Zahlung fehlgeschlagen
+COVERS,Abdeckungen
+SORT_BY,Sortieren nach
+RESET,Zurücksetzen
+SHOW_ALL_RESULT,Alle Ergebnisse anzeigen
+SHOW_V1,Anzeigen
+RESULT,Ergebnis
+CATEGORIES,Kategorien
+DELIVERY_AVAILABILITY,Lieferverfügbarkeit
+ITEM_V1,Artikel
+WILL_BE_AVAILABLE,Wird verfügbar sein am
+WITH_QUANTITY,mit der Menge
+CLOSE_V1,Schließen
+CHECK_AVAILABILITY_EMPTY_MSG,Bitte kontaktieren Sie unser Verkaufsteam, um den Lagerbestand für diesen Artikel zu überprüfen.
+PARTIAL_DELIVERY,Teillieferung
+DELAYED_DELIVERY,Verzögerte Lieferung
+PAYMENT,Zahlung
+UPDATE_REQUIRED,Aktualisierung erforderlich
+UPDATE_REQUIRED_MSG,Eine neue Version ist verfügbar. Bitte aktualisiere die App, um fortzufahren.
+UPDATE_NOW,Jetzt aktualisieren
+WELCOME,Willkommen
+NAME,Name
+CHAR_LEFT,verbleibende zeichen
+SAVE_COMMENT,Kommentar speichern
+BRIDAL_DATE,Hochzeitsdatum
+DONE,Fertig
+SERVICE_CALL,Serviceanfrage
+IMAGES_SIZE_V1,Bilder (Maximale Größe: 5 MB pro Bild)
+SELECT_IMAGES,Bilder auswählen
+VIDEO_SIZE_V1,Video (Maximale Größe: 20 MB)
+SELECT_VIDEO,Video auswählen
+ONLY_ONE_VIDEO,Nur ein Video erlaubt
+REMOVE_EXISTING_VIDEO,Bitte entfernen Sie das vorhandene Video, bevor Sie ein anderes auswählen.
+SUBMITTING,Wird gesendet...
+SERVICE_CALL_SUBMIT_MSG,Serviceanfrage erfolgreich übermittelt.
+SERVICE_VALIDATION_ERROR,Validierungsfehler
+ENTER_YOUR_NAME,Bitte geben Sie Ihren Namen ein.
+ENTER_YOUR_COMMENT,Bitte geben Sie Ihren Kommentar ein.
+SELECT_ONE_IMAGE,Bitte wählen Sie mindestens ein Bild aus.
+VIDEO_TOO_LARGE,Video zu groß
+EXCEEDS_MB_VIDEO_LIMIT,überschreitet das Limit von 20 MB.
+IMAGE_LIMIT_REACHED,Bilderlimit erreicht
+UPLOAD_MAX_FIVE_IMAGES,Sie können maximal 5 Bilder hochladen.
+IMAGE_TOO_LARGE,Bild zu groß
+EXCEEDS_MB_IMAGE_LIMIT,überschreitet das Limit von 5 MB.
+IMAGE_V1,Bild
+MESSAGE,Nachricht
+YOUR_SHIPMENT,Ihre Sendung
+TRACKING_FAILED_MSG,Derzeit können wir keine Sendungsverfolgungsdaten bereitstellen. Wir können Sendungen nicht lokalisieren, wenn wir noch keine Informationen vom Versender erhalten haben oder wenn die Paketinformationen älter als 120 Tage sind.
+ESTIMATED_DELIVERY_SOON,Das voraussichtliche Lieferdatum wird verfügbar sein, sobald wir das Paket erhalten haben.
+MONETICO_GATEWAY,Kreditkartenzahlung
+STRIPE_GATEWAY,Mit Karte bezahlen (Stripe)
+PAYPAL_GATEWAY,Kaufabwicklung
+REVOLUT_GATEWAY,Kreditkarte (Revolut)
+SUPPORT,Support
+WE_HERE_HELP_YOU,Wir sind hier, um Ihnen zu helfen
+CUSTOMER_INFORMATION,Ihre Kundeninformationen
+CUSTOMER_NUMBER,Ihre Kundennummer:
+ACCOUNT_MANAGER_BY,Ihr Kundenbetreuer von Bianco Evento
+BUSINESS_HOURS,Geschäftszeiten
+OPERATIONAL_MONDAY_FROM,Wir sind von Montag bis
+OPERATIONAL_FRIDAY_TO,Freitag von 7:00 bis 16:00 Uhr erreichbar
+CHAT_WITH_US,Chatten Sie mit uns
+SELECT_COLOR,Farbe auswählen
+OUT_OF_STOCK,Ausverkauft
+READY,Bereit
+LOADING_PROFILE,Profil wird geladen...
+SETTING_UP_STORE,Geschäft wird eingerichtet...
+PREPARING_CONTENT,Inhalte werden vorbereitet...
+AUTHENTICATING,Authentifizierung...
+INITIALIZING,Initialisierung...
+LOADING_CONFIGURATION,Konfiguration wird geladen...
+MY_LAST_10_ORDERED_PRODUCTS,Meine letzten 10 bestellten Produkte
+ITEM_CODE,Artikelcode
+AVAILABLE_V1,Auf Lager
+FIVE_PCS_AVAILABLE,5 Stück oder weniger verfügbar
+CURRENTLY_NOT_STOCK,Derzeit nicht auf Lager
+UNAVAILABLE_V1,Nicht verfügbar
+SHIPPING_TYPE,Versandart
+DELIVERY_DATE,Lieferdatum
+PAYMENT_TERMS,Zahlungsbedingungen
+DELIVERD,Geliefert
+SHIPPING_CARRIER,Versanddienstleister
+ORDER_NUMBER,Bestellnummer
+DUE_DATE,Fälligkeitsdatum
+DISCOUNT_AMOUNT,Rabattbetrag
+DELIVERY_NUMBER,Liefernummer
+UNIT_OF_MEASURE,Maßeinheit
+INVOICE_NO,Rechnungsnummer
+SALES_ITEMS,Verkaufsartikel
+POPULAR_PRODUCTS,Beliebte Produkte
+JUST_FOR_YOU,Nur für dich
+NO_SUBCAT_FOUND,Keine Unterkategorien gefunden
+PROCEED_TO_CHECKOUT,Zur Kasse gehen
+LOOKS_ADDED_MSG,Es scheint, als hättest du deinem Warenkorb noch nichts hinzugefügt
+LOADING_CART,Warenkorb wird geladen…
+ITEMS_V1,artikel
+REMOVE_ITEM,Artikel entfernen
+NO_WISHLIST_YET,Noch keine Favoriten
+SHOP_NOW,Jetzt einkaufen
+YOU_ARE_BROWSING_GUEST,Du surfst als Gast
+SIGNIN_TO_ACCESSORDER_MSG,Melde dich an, um auf deine Bestellungen, Wunschliste und gespeicherten Daten zuzugreifen
+SIGNON_CREATE_ACCOUNT,Anmelden / Konto erstellen
+MY_ORDERS,Meine Bestellungen
+SAVED_ADDRESS,Adresse speichern
+CONTACT_US,Kontaktiere uns
+BACK,Zurück!
+SIGNUP,Registrieren
+CREATE_AN_ACCOUNT,Ein Konto erstellen
+INCORRECT_CAPTCHA_TRY_AGAIN,Fehler", "Falsches CAPTCHA, bitte erneut versuchen
+IF_CUSTOMER_ACCOUNT_LINKED_TO,Wenn ein Kundenkonto verknüpft ist mit
+YOU_WILL_RECEIVE_EMAIL_RESET_PASSWORD,Du erhältst eine E-Mail mit einem Link, um dein Passwort zurückzusetzen.
+FORGOT_YOUR_PASSWORD,Passwort vergessen?
+PLEASE_ENTER_EMAIL_RESET_LINK,Bitte gib deine E-Mail-Adresse ein, um einen Link zum Zurücksetzen des Passworts zu erhalten.
+FIRST_NAME_REQUIRED,Vorname ist erforderlich
+LAST_NAME_REQUIRED,Nachname ist erforderlich
+PASSWORD_MIN_8_CHARACTERS,Das Passwort muss mindestens 8 Zeichen lang sein
+PASSWORD_UPPERCASE_REQUIRED,Das Passwort muss mindestens einen Großbuchstaben enthalten
+PASSWORD_NUMBER_REQUIRED,Das Passwort muss mindestens eine Zahl enthalten
+PASSWORD_SPECIAL_CHAR_REQUIRED,Das Passwort muss mindestens ein Sonderzeichen enthalten
+CONFIRM_PASSWORD_REQUIRED,Bitte bestätige dein Passwort
+PASSWORDS_DO_NOT_MATCH,Passwörter stimmen nicht überein
+REGISTRATION_FAILED_TRY_AGAIN,Registrierung fehlgeschlagen. Bitte versuche es erneut.
+CREATE_ACCOUNT,Konto erstellen
+FIRST_NAME,Vorname
+LAST_NAME,Nachname
+CONFIRM_PASSWORD,Passwort bestätigen
+ALREADY_HAVE_ACCOUNT,Hast du bereits ein Konto?
+INCLUSIVE_OF_ALL_TAXES,Inklusive aller Steuern
+DESCRIPTION_LABEL,Beschreibung:
+VIEW_PRODUCT_DETAILS,Produktdetails anzeigen
+REVIEWS,Bewertungen
+VIEW_ALL,Alle anzeigen
+NO_REVIEWS_YET,Noch keine Bewertungen
+WRITE_A_REVIEW,Bewertung schreiben
+ITEM_ADDED,Artikel hinzugefügt
+VIEW_CART,Warenkorb ansehen
+ITEM_SINGULAR,Artikel
+ITEMS_PLURAL,Artikel
+PRODUCT_DATA_NOT_AVAILABLE,Produktdaten nicht verfügbar
+PLEASE_SELECT_ALL_PRODUCT_OPTIONS,Bitte alle Produktoptionen auswählen
+FAILED_TO_CREATE_CART,Warenkorb konnte nicht erstellt werden
+FAILED_TO_CREATE_GUEST_CART,Gast-Warenkorb konnte nicht erstellt werden
+FAILED_TO_ADD_PRODUCT_TO_CART,Produkt konnte nicht zum Warenkorb hinzugefügt werden
+UNEXPECTED_ERROR_OCCURRED,Ein unerwarteter Fehler ist aufgetreten
+PLEASE_LOGIN_TO_ADD_WISHLIST,Bitte melden Sie sich an, um zur Wunschliste hinzuzufügen
+PRODUCT_SKU_NOT_AVAILABLE,Produkt-SKU nicht verfügbar
+FAILED_TO_ADD_WISHLIST,Konnte nicht zur Wunschliste hinzufügen
+ADDED_TO_WISHLIST,Zur Wunschliste hinzugefügt
+YOU_ARE_REVIEWING,Sie bewerten:
+YOUR_RATING,Ihre Bewertung
+NICKNAME,Spitzname
+SUMMARY,Zusammenfassung
+REVIEW,Bewertung
+SUBMIT_REVIEW,Bewertung absenden
+SUBMITTING,Wird übermittelt...
+PLEASE_SELECT_RATING,Bitte wählen Sie eine Bewertung
+NICKNAME_REQUIRED,Spitzname ist erforderlich
+NICKNAME_MIN_2_CHARACTERS,Spitzname muss mindestens 2 Zeichen lang sein
+SUMMARY_REQUIRED,Zusammenfassung ist erforderlich
+SUMMARY_MIN_5_CHARACTERS,Zusammenfassung muss mindestens 5 Zeichen lang sein
+REVIEW_REQUIRED,Bewertung ist erforderlich
+REVIEW_MIN_10_CHARACTERS,Bewertung muss mindestens 10 Zeichen lang sein
+PLEASE_LOGIN_TO_SUBMIT_REVIEW,Bitte melden Sie sich an, um eine Bewertung abzugeben
+AUTHENTICATION_REQUIRED_PLEASE_LOGIN,Authentifizierung erforderlich. Bitte melden Sie sich erneut an.
+REVIEW_SUBMITTED_SUCCESSFULLY,Bewertung erfolgreich übermittelt!
+FAILED_TO_SUBMIT_REVIEW,Bewertung konnte nicht übermittelt werden
+ERROR_OCCURRED_SUBMITTING_REVIEW,Beim Übermitteln Ihrer Bewertung ist ein Fehler aufgetreten
+AUTHENTICATION_FAILED_PLEASE_LOGIN,Authentifizierung fehlgeschlagen. Bitte melden Sie sich erneut an.
+ALREADY_REVIEWED_PRODUCT,Sie haben dieses Produkt bereits bewertet.
+SORT_BY,Sortieren nach:
+NEWEST,Neueste
+OLDEST,Älteste
+HIGHEST,Höchste
+LOWEST,Niedrigste
+ANONYMOUS,Anonym
+REVIEW_SINGULAR,Bewertung
+REVIEWS_PLURAL,Bewertungen
+BE_FIRST_TO_REVIEW_PRODUCT,Seien Sie der Erste, der dieses Produkt bewertet
+PLEASE_ENTER_EMAIL_AND_PASSWORD,Bitte geben Sie sowohl E-Mail als auch Passwort ein
+INVALID_EMAIL_OR_PASSWORD,Ungültige E-Mail oder Passwort
+LOGIN_FAILED_TRY_AGAIN,Anmeldung fehlgeschlagen. Bitte versuchen Sie es erneut.
+ERROR,Fehler
+FAILED_TO_SAVE_ADDRESS_TRY_AGAIN,Adresse konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.
+VALID_EMAIL_REQUIRED,Gültige E-Mail ist erforderlich
+FIRST_NAME_REQUIRED,Vorname ist erforderlich
+LAST_NAME_REQUIRED,Nachname ist erforderlich
+STREET_REQUIRED,Straße ist erforderlich
+CITY_REQUIRED,Stadt ist erforderlich
+POSTAL_CODE_REQUIRED,Postleitzahl ist erforderlich
+TELEPHONE_REQUIRED,Telefon ist erforderlich
+STATE_PROVINCE_REQUIRED,Bundesland/Provinz ist erforderlich
+BILLING_FIRST_NAME_REQUIRED,Rechnungsvorname ist erforderlich
+BILLING_LAST_NAME_REQUIRED,Rechnungsnachname ist erforderlich
+BILLING_STREET_REQUIRED,Rechnungsstraße ist erforderlich
+BILLING_CITY_REQUIRED,Rechnungsstadt ist erforderlich
+BILLING_POSTAL_CODE_REQUIRED,Rechnungspostleitzahl ist erforderlich
+BILLING_TELEPHONE_REQUIRED,Rechnungstelefon ist erforderlich
+BILLING_STATE_PROVINCE_REQUIRED,Rechnungsbundesland/Provinz ist erforderlich
+ENTER_YOUR_EMAIL,Geben Sie Ihre E-Mail ein
+WELL_CHECK_IF_ACCOUNT_EXISTS,Wir prüfen, ob Sie ein Konto bei uns haben
+EMAIL_ADDRESS,E-Mail-Adresse
+CHECK,Prüfen
+CHECKING_EMAIL,E-Mail wird geprüft...
+WELCOME_BACK,Willkommen zurück!
+ACCOUNT_FOUND_PLEASE_SIGN_IN,Wir haben ein Konto mit dieser E-Mail gefunden. Bitte melden Sie sich an.
+PASSWORD,Passwort
+ENTER_YOUR_PASSWORD,Geben Sie Ihr Passwort ein
+SIGN_IN_CONTINUE,Anmelden & Fortfahren
+SHIPPING_INFORMATION,Versandinformationen
+FORM_FILLED_PREVIOUS_INFO_CAN_EDIT,Wir haben dieses Formular mit Ihren vorherigen Informationen ausgefüllt. Sie können jedes Feld unten bearbeiten.
+START_FRESH,Neu starten
+CAN_EDIT_EMAIL_IF_NEEDED,Sie können Ihre E-Mail-Adresse bei Bedarf bearbeiten
+SHIPPING_ADDRESS,Lieferadresse
+FIRST_NAME,Vorname
+LAST_NAME,Nachname
+STREET_ADDRESS,Straßenadresse
+COUNTRY,Land
+SELECT_COUNTRY,Land auswählen
+SEARCH,Suchen
+STATE_PROVINCE,Bundesland/Provinz
+SELECT_STATE,Bundesland auswählen
+ENTER_STATE_PROVINCE,Bundesland/Provinz eingeben
+CITY,Stadt
+POSTAL_CODE,Postleitzahl
+TELEPHONE,Telefon
+USE_SAME_ADDRESS_FOR_BILLING,Gleiche Adresse für Rechnung verwenden
+BILLING_ADDRESS,Rechnungsadresse
+UPDATE_ADDRESS,Adresse aktualisieren
+SIGNIN,Anmelden
+UPDATE_CONTINUE,Aktualisieren & Fortfahren
+CONTINUE_TO_CHECKOUT,Zur Kasse gehen
+CHECKOUT,Zur Kasse
+SHIPPING_ADDRESS,Lieferadresse
+CHANGE,Ändern
+BILLING_ADDRESS,Rechnungsadresse
+SHIPPING_METHOD,Versandart
+ORDER_ITEMS,Bestellartikel
+ORDER_SUMMARY,Bestellübersicht
+SUBTOTAL,Zwischensumme
+VAT_18_PERCENT,MWSt. (18%)
+SHIPPING_FEE,Versandkosten
+DISCOUNT,Rabatt
+TOTAL,Gesamt
+TOTAL_AMOUNT,Gesamtbetrag
+PAYMENT_METHOD,Zahlungsmethode
+PROMO_CODE,Gutscheincode
+ENTER_PROMO_CODE,Gutscheincode eingeben
+APPLY,Anwenden
+PLACE_ORDER,Bestellung aufgeben
+LOADING_SHIPPING_METHODS,Versandarten werden geladen...
+NO_SHIPPING_METHODS_AVAILABLE,Keine Versandarten verfügbar
+NO_PAYMENT_METHODS_AVAILABLE,Keine Zahlungsmethoden verfügbar
+SIZE,Größe
+COLOR,Farbe
+QTY,Menge
+PHONE,Telefon
+NO_ADDRESS_AVAILABLE,Keine Adresse verfügbar
+ADD_ADDRESS,Adresse hinzufügen
+DEFAULT,Standard
+SAME,Gleich
+EXPIRES,Läuft ab
+PLEASE_ENTER_PROMO_CODE,Bitte geben Sie einen Gutscheincode ein
+COUPON_ALREADY_APPLIED_REMOVE_FIRST,Ein Gutschein ist bereits angewendet. Bitte entfernen Sie ihn zuerst.
+COUPON_APPLIED,Gutschein angewendet
+FAILED_TO_APPLY_COUPON,Gutschein konnte nicht angewendet werden
+COUPON_REMOVED,Gutschein entfernt
+FAILED_TO_REMOVE_COUPON,Gutschein konnte nicht entfernt werden
+PLEASE_COMPLETE_ALL_CHECKOUT_STEPS,Bitte vervollständigen Sie alle Schritte der Bestellung, bevor Sie Ihre Bestellung aufgeben.
+FAILED_TO_PLACE_ORDER,Bestellung konnte nicht aufgegeben werden
+UNKNOWN_ERROR,Unbekannter Fehler
+FAILED_TO_PLACE_ORDER_TRY_AGAIN,Bestellung konnte nicht aufgegeben werden. Bitte versuchen Sie es erneut.
+ORDER_PLACED_SUCCESSFULLY,Bestellung erfolgreich aufgegeben!
+ORDER_NUMBER,Bestellnummer
+THANK_YOU_FOR_SHOPPING,Vielen Dank für Ihren Einkauf!
+BACK_TO_HOME,Zurück zur Startseite
+FIRST_NAME_REQUIRED,Vorname ist erforderlich
+LAST_NAME_REQUIRED,Nachname ist erforderlich
+STREET_REQUIRED,Straße ist erforderlich
+CITY_REQUIRED,Stadt ist erforderlich
+POSTAL_CODE_REQUIRED,Postleitzahl ist erforderlich
+STATE_PROVINCE_REQUIRED,Bundesland/Provinz ist erforderlich
+ADDED_SUCCESSFULLY,Erfolgreich hinzugefügt
+UPDATE_SUCCESSFULLY,Erfolgreich aktualisiert
+ERROR_ADDING_ADDRESS,Fehler beim Hinzufügen der Adresse
+ERROR_UPDATING_ADDRESS,Fehler beim Aktualisieren der Adresse
+UPDATE_ADDRESS,Adresse aktualisieren
+ADD_NEW_ADDRESS,Neue Adresse hinzufügen
+CONTACT_INFORMATION,Kontaktinformationen
+FIRST_NAME,Vorname
+LAST_NAME,Nachname
+PHONE_NO,Telefonnummer
+ADDRESS,Adresse
+STREET,Straße
+COUNTRY,Land
+SEARCH,Suchen
+STATE_PROVINCE,Bundesland/Provinz
+PLEASE_SELECT_REGION_STATE_PROVINCE,Bitte wählen Sie eine Region, ein Bundesland oder eine Provinz aus.
+CITY,Stadt
+ZIP_POSTAL_CODE,Postleitzahl
+ITS_DEFAULT_BILLING_ADDRESS,Es ist eine Standard-Rechnungsadresse.
+USE_AS_DEFAULT_BILLING_ADDRESS,Als meine Standard-Rechnungsadresse verwenden
+ITS_DEFAULT_SHIPPING_ADDRESS,Es ist eine Standard-Lieferadresse.
+USE_AS_DEFAULT_SHIPPING_ADDRESS,Als meine Standard-Lieferadresse verwenden
+SAVE_ADDRESS,Adresse speichern
+MY_ACCOUNT,Mein Konto
+FIRST_NAME_REQUIRED,Vorname ist erforderlich
+LAST_NAME_REQUIRED,Nachname ist erforderlich
+EMAIL_REQUIRED,E-Mail ist erforderlich
+EMAIL_ADDRESS_INVALID,E-Mail-Adresse ist ungültig
+EMAIL_ADDRESS_ALREADY_EXISTS,E-Mail-Adresse existiert bereits
+CURRENT_PASSWORD_REQUIRED,Aktuelles Passwort ist erforderlich
+PASSWORD_REQUIRED,Passwort ist erforderlich
+PASSWORD_VALIDATION_MESSAGE,Ihr Passwort muss 8 Zeichen lang sein und mindestens einen Kleinbuchstaben, einen Großbuchstaben, eine Ziffer und ein Sonderzeichen enthalten.
+CONFIRM_PASSWORD_REQUIRED,Passwort bestätigen ist erforderlich
+PASSWORD_CONFIRM_MUST_MATCH,Passwort und Bestätigungspasswort müssen übereinstimmen
+UPDATE_FAILED,Aktualisierung fehlgeschlagen
+ACCOUNT_UPDATED_SUCCESSFULLY,Konto erfolgreich aktualisiert!
+FIRST_NAME,Vorname
+LAST_NAME,Nachname
+EMAIL,E-Mail
+INVALID_EMAIL_FORMAT,Ungültiges E-Mail-Format
+CHANGE_PASSWORD,Passwort ändern
+OLD_PASSWORD,Altes Passwort
+NEW_PASSWORD,Neues Passwort
+NEW_CONFIRM_PASSWORD,Neues Passwort bestätigen
+SHOW_PASSWORD,Passwort anzeigen
+LOADING,Laden
+UPDATE,Aktualisieren
+DELETED_SUCCESSFULLY,Erfolgreich gelöscht
+CONFIRM_DELETE,Löschen bestätigen
+ARE_YOU_SURE_DELETE_ADDRESS,Sind Sie sicher, dass Sie diese Adresse löschen möchten?
+PHONE_NUMBER,Telefonnummer
+EDIT,Bearbeiten
+NO_ADDRESSES_FOUND,Keine Adressen gefunden
+ADD_FIRST_ADDRESS_TO_GET_STARTED,Fügen Sie Ihre erste Adresse hinzu, um zu beginnen
+ADDRESS_BOOK,Adressbuch
+DEFAULT_ADDRESSES,Standardadressen
+DEFAULT_BILLING_ADDRESS,Standard-Rechnungsadresse
+DEFAULT_SHIPPING_ADDRESS,Standard-Lieferadresse
+ADDITIONAL_ADDRESS_ENTRIES,Weitere Adresseinträge
+PHONE_SHORT,Tel.
+MY_OPEN_ORDERS,Meine Bestellungen
+SEEMS_NOTHING_HERE,Es scheint, als wäre hier nichts
+CONTINUE_SHIPPING,Weiter einkaufen
+ORDER_NOT_FOUND,Bestellung nicht gefunden.
+ORDER_DETAILS,Bestelldetails
+ORDER,Bestellung
+GRAND_TOTAL,Gesamtbetrag
+ITEMS_ORDERED,Bestellte Artikel
+SKU,SKU
+SHIPPING_HANDLING,Versand & Bearbeitung
+TAX,Steuer
+ORDER_INFORMATION,Bestellinformationen
+VIEW_DETAILS,Details anzeigen
+REORDER,Erneut bestellen
+REORDER_PLACED,Erneut bestellt!
