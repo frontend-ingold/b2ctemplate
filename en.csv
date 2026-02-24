@@ -335,7 +335,7 @@ CONTACT_US,Contact Us
 BACK,Back!
 SIGNUP,Sign Up
 CREATE_AN_ACCOUNT,Create An Account
-INCORRECT_CAPTCHA_TRY_AGAIN,Error", "Incorrect CAPTCHA, try again
+INCORRECT_CAPTCHA_TRY_AGAIN, "Incorrect CAPTCHA, try again
 IF_CUSTOMER_ACCOUNT_LINKED_TO,If a customer account is linked to
 YOU_WILL_RECEIVE_EMAIL_RESET_PASSWORD,you will receive an email with a link to reset your password.
 FORGOT_YOUR_PASSWORD,Forgot your password?
