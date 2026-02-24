@@ -539,7 +539,7 @@ EMAIL_ADDRESS_INVALID,Email address is invalid
 EMAIL_ADDRESS_ALREADY_EXISTS,Email address already exist
 CURRENT_PASSWORD_REQUIRED,Current Password is required
 PASSWORD_REQUIRED,Password is required
-PASSWORD_VALIDATION_MESSAGE,Your password must be 8 characters long and atleast one Lower Case, Upper Case, Digits Special Characters.
+PASSWORD_VALIDATION_MESSAGE,Your password must be 8 characters long and atleast one Lower Case Upper Case Digits Special Characters.
 CONFIRM_PASSWORD_REQUIRED,Confirm Password is required
 PASSWORD_CONFIRM_MUST_MATCH,Password and Confirm Password must be same
 UPDATE_FAILED,Update failed
