@@ -586,3 +586,8 @@ REORDER_PLACED,Erneut bestellt!
 CONTINUE_SHOPPING,Weiter einkaufen
 TOTAL_ITEMS,Artikel gesamt
 UPDATE_CART,Warenkorb aktualisieren
+SEE_ALL,Alle anzeigen
+ENTER_CAPTCHA,Captcha eingeben
+CAPTCHA,Sicherheitsabfrage
+CAPTCHA_REQUIRED,Captcha ist erforderlich
+INCORRECT_CAPTCHA_TRY_AGAIN,Captcha ist ungültig. Bitte versuchen Sie es erneut.

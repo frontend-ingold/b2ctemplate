@@ -586,3 +586,8 @@ REORDER_PLACED,Reorder placed!
 CONTINUE_SHOPPING,Continue Shopping
 TOTAL_ITEMS,Total items
 UPDATE_CART,Update Cart
+SEE_ALL,See All
+ENTER_CAPTCHA,Enter captcha
+CAPTCHA,Captcha
+CAPTCHA_REQUIRED,Captcha is required
+INCORRECT_CAPTCHA_TRY_AGAIN,Incorrect captcha, try again
