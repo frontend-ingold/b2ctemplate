@@ -523,7 +523,7 @@ STREET,Street
 COUNTRY,Country
 SEARCH,Search
 STATE_PROVINCE,State/Province
-PLEASE_SELECT_REGION_STATE_PROVINCE,Please select a region state or province.
+PLEASE_SELECT_REGION_STATE_PROVINCE,Bundesland auswählen.
 CITY,City
 ZIP_POSTAL_CODE,Zip/Postal Code
 ITS_DEFAULT_BILLING_ADDRESS,It's a default billing address.
