@@ -591,3 +591,14 @@ ENTER_CAPTCHA,Captcha eingeben
 CAPTCHA,Sicherheitsabfrage
 CAPTCHA_REQUIRED,Captcha ist erforderlich
 INCORRECT_CAPTCHA_TRY_AGAIN,Captcha ist ungültig. Bitte versuchen Sie es erneut.
+SEARCH_TITLE,Suche
+SEARCH_INPUT_PLACEHOLDER,Suche nach Produkten, Marken und mehr
+SEARCH_HISTORY,Suchverlauf
+RECOMMENDATIONS,Empfehlungen
+LOADING_RECOMMENDATIONS,Empfehlungen werden geladen...
+DISCOVER,Entdecken
+SEARCH_POPULAR_MEN_TSHIRT,Herren-T-Shirt
+SEARCH_POPULAR_RUNNING_SHOES,Laufschuhe
+SEARCH_POPULAR_WIRELESS_HEADPHONES,Kabellose Kopfhörer
+SEARCH_POPULAR_SMART_WATCH,Smartwatch
+SEARCH_POPULAR_LEATHER_WALLET,Ledergeldbörse

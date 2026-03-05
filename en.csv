@@ -591,3 +591,14 @@ ENTER_CAPTCHA,Enter captcha
 CAPTCHA,Captcha
 CAPTCHA_REQUIRED,Captcha is required
 INCORRECT_CAPTCHA_TRY_AGAIN,Incorrect captcha, try again
+SEARCH_TITLE,Search
+SEARCH_INPUT_PLACEHOLDER,Search products, brands and more
+SEARCH_HISTORY,Search history
+RECOMMENDATIONS,Recommendations
+LOADING_RECOMMENDATIONS,Loading recommendations...
+DISCOVER,Discover
+SEARCH_POPULAR_MEN_TSHIRT,Men T-shirt
+SEARCH_POPULAR_RUNNING_SHOES,Running shoes
+SEARCH_POPULAR_WIRELESS_HEADPHONES,Wireless headphones
+SEARCH_POPULAR_SMART_WATCH,Smart watch
+SEARCH_POPULAR_LEATHER_WALLET,Leather wallet
