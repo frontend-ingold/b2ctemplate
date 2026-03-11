@@ -468,6 +468,7 @@ ORDER_SUMMARY,Bestellübersicht
 SUBTOTAL,Zwischensumme
 VAT_18_PERCENT,MWSt. (18%)
 SHIPPING_FEE,Versandkosten
+VAT_V1,Vat
 DISCOUNT,Rabatt
 TOTAL,Gesamt
 TOTAL_AMOUNT,Gesamtbetrag

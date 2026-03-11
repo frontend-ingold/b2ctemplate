@@ -468,6 +468,7 @@ ORDER_SUMMARY,Order Summary
 SUBTOTAL,Subtotal
 VAT_18_PERCENT,VAT (18%)
 SHIPPING_FEE,Shipping fee
+VAT_V1,Vat
 DISCOUNT,Discount
 TOTAL,Total
 TOTAL_AMOUNT,Total Amount
